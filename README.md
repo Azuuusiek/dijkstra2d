@@ -1,4 +1,4 @@
-# dijkstra2d
-tor przeszkód
+# Obstacle Course
 
-zrobiona mozliwosc chodzenia po skosach zeby roznislo sie od bfs
+### Features & Implementation
+* Implemented diagonal movement capability to distinguish the pathfinding behavior from a standard Breadth-First Search (BFS)
